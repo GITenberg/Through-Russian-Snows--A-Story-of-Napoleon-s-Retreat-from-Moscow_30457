@@ -1,0 +1,40 @@
+_repo: Through-Russian-Snows--A-Story-of-Napoleon-s-Retreat-from-Moscow_30457
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Overend, William Heysham
+    aliases:
+    - Overend, W.H.
+    - Overend, W. H. (William Heysham)
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '9706'
+    url: http://www.gutenberg.org/2009/agents/9706
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2009-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Juvenile fiction'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Juvenile fiction'
+title: 'Through Russian Snows: A Story of Napoleon''s Retreat from Moscow'
+url: http://www.gutenberg.org/ebooks/30457
